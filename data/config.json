@@ -1,0 +1,455 @@
+{
+  "masterVolume": 0.70641028881073,
+  "groups": [
+    {
+      "channels": [
+        {
+          "volume": 0.8837209343910217,
+          "channel": 1
+        },
+        {
+          "volume": 0.674418568611145,
+          "channel": 2
+        },
+        {
+          "volume": 0,
+          "channel": 3
+        },
+        {
+          "volume": 0,
+          "channel": 4
+        },
+        {
+          "volume": 0,
+          "channel": 5
+        },
+        {
+          "volume": 0,
+          "channel": 6
+        },
+        {
+          "volume": 0,
+          "channel": 7
+        },
+        {
+          "volume": 0,
+          "channel": 8
+        },
+        {
+          "volume": 0,
+          "channel": 9
+        },
+        {
+          "volume": 0,
+          "channel": 10
+        }
+      ],
+      "groupVolume": 0.9841269850730896
+    },
+    {
+      "channels": [
+        {
+          "volume": 0.5581395626068115,
+          "channel": 11
+        },
+        {
+          "volume": 0.3255813717842102,
+          "channel": 12
+        },
+        {
+          "volume": 0.7674418687820435,
+          "channel": 13
+        },
+        {
+          "volume": 0,
+          "channel": 14
+        },
+        {
+          "volume": 0,
+          "channel": 15
+        },
+        {
+          "volume": 0,
+          "channel": 16
+        },
+        {
+          "volume": 0,
+          "channel": 17
+        },
+        {
+          "volume": 0.5116279125213623,
+          "channel": 18
+        },
+        {
+          "volume": 0,
+          "channel": 19
+        },
+        {
+          "volume": 0,
+          "channel": 20
+        }
+      ],
+      "groupVolume": 0.4920634627342224
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 21
+        },
+        {
+          "volume": 0,
+          "channel": 22
+        },
+        {
+          "volume": 0,
+          "channel": 23
+        },
+        {
+          "volume": 0,
+          "channel": 24
+        },
+        {
+          "volume": 0,
+          "channel": 25
+        },
+        {
+          "volume": 0,
+          "channel": 26
+        },
+        {
+          "volume": 0,
+          "channel": 27
+        },
+        {
+          "volume": 0,
+          "channel": 28
+        },
+        {
+          "volume": 0,
+          "channel": 29
+        },
+        {
+          "volume": 0,
+          "channel": 30
+        }
+      ],
+      "groupVolume": 0.1746031641960144
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 31
+        },
+        {
+          "volume": 0,
+          "channel": 32
+        },
+        {
+          "volume": 0,
+          "channel": 33
+        },
+        {
+          "volume": 0,
+          "channel": 34
+        },
+        {
+          "volume": 0,
+          "channel": 35
+        },
+        {
+          "volume": 0,
+          "channel": 36
+        },
+        {
+          "volume": 0,
+          "channel": 37
+        },
+        {
+          "volume": 0,
+          "channel": 38
+        },
+        {
+          "volume": 0,
+          "channel": 39
+        },
+        {
+          "volume": 0,
+          "channel": 40
+        }
+      ],
+      "groupVolume": 0
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        }
+      ],
+      "groupVolume": 0
+    },
+    {
+      "channels": [
+        {
+          "volume": 0.3720930218696594,
+          "channel": 0
+        },
+        {
+          "volume": 0.604651153087616,
+          "channel": 0
+        },
+        {
+          "volume": 0.39534884691238403,
+          "channel": 0
+        },
+        {
+          "volume": 0.1860465407371521,
+          "channel": 0
+        },
+        {
+          "volume": 0.8139535188674927,
+          "channel": 0
+        },
+        {
+          "volume": 0.39534884691238403,
+          "channel": 0
+        },
+        {
+          "volume": 0.02325582504272461,
+          "channel": 0
+        },
+        {
+          "volume": 0.41860467195510864,
+          "channel": 0
+        },
+        {
+          "volume": 0.5581395626068115,
+          "channel": 0
+        },
+        {
+          "volume": 0.39534884691238403,
+          "channel": 0
+        }
+      ],
+      "groupVolume": 0.2222222089767456
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        }
+      ],
+      "groupVolume": 0
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        }
+      ],
+      "groupVolume": 0
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0.7209302186965942,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 1,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0.8604651093482971,
+          "channel": 0
+        }
+      ],
+      "groupVolume": 1
+    },
+    {
+      "channels": [
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 0,
+          "channel": 0
+        },
+        {
+          "volume": 1,
+          "channel": 0
+        }
+      ],
+      "groupVolume": 1
+    }
+  ]
+}
